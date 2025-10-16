@@ -62,13 +62,13 @@ CreditVista/
 │   ├── constants.js
 │   ├── .env
 │   └── package.json
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   ├── utils/
-    │   ├── App.jsx
-    │   └── main.jsx
-    ├── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
 └── README.md
 ```
 
