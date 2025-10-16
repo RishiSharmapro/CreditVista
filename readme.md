@@ -1,6 +1,6 @@
-# 💳 CreditVision
+# 💳 CreditVista
 
-**CreditVision** is a full-stack MERN application that parses and visualizes detailed credit report data from XML files.  
+**CreditVista** is a full-stack MERN application that parses and visualizes detailed credit report data from XML files.  
 It helps users extract, structure, and visualize their financial information — including credit score, account summaries, and individual credit account details — in a clean, interactive dashboard.
 
 ---
